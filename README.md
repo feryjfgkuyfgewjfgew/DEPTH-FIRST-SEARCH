@@ -139,8 +139,8 @@ G F <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 <hr>
-<hr>## output</hr>
-![Screenshot 2025-03-21 192015](https://github.com/user-attachments/assets/d4572415-f3ff-434f-8a0e-5d3bcd744c68)
+<h7>output</h7>
+![Screenshot 2025-03-21 192015](https://github.com/user-attachments/assets/6a6e5004-f7dd-422e-9e60-777e6b460147)
 
 <h3>Result:</h3>
 <hr>
