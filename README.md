@@ -50,6 +50,7 @@ Steps 7: Remove node 4 from the front of queue and visit the unvisited neighbour
 As we can see that every neighbours of node 4 are visited, so move to the next node that is in the front of the queue.
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8e16ffa3-c3d6-4774-822b-6eb84adedad9)
+![Screenshot 2025-03-21 192015](https://github.com/user-attachments/assets/7d025686-8daf-4587-95f0-320bbb9f4651)
 
 Remove node 4 from the front of queue and visit the unvisited neighbours and push them into queue.
 Now, Queue becomes empty, So, terminate these process of iteration.
